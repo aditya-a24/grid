@@ -99,3 +99,7 @@ body{
      /* background-image: url(images/alberta-amazing-attraction-banff-417074.jpg);*/
      background-image: url(images/wallpaperflare.com_wallpaper.jpg);
  }
+
+body p{
+    text-align: center;
+}
